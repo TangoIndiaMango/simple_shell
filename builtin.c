@@ -1,7 +1,6 @@
 /*
  * File: builtin.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

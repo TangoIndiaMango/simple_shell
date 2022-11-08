@@ -1,7 +1,6 @@
 /*
  * File: getline.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

@@ -1,7 +1,6 @@
 /*
  * File: err_msgs1.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

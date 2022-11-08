@@ -1,7 +1,6 @@
 /*
  * File: env_builtins.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

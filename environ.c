@@ -1,7 +1,6 @@
 /*
  * File: environ.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

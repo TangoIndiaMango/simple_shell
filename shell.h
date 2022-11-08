@@ -3,8 +3,7 @@
 
 /*
  * File: shell.h
- * Auth: SERGEO MOFFO 
- *       FRANCK
+
  */
 
 #include <fcntl.h>

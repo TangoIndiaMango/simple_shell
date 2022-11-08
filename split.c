@@ -1,7 +1,6 @@
 /*
  * File: split.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

@@ -1,7 +1,6 @@
 /*
  * File: input_helpers.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

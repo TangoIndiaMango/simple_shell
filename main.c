@@ -1,7 +1,6 @@
 /*
  * File: main.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"

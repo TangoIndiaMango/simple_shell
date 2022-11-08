@@ -1,7 +1,6 @@
 /*
  * File: linkedlist.c
- * Auth: SERGEO MOFFO
- *       FRANCK
+
  */
 
 #include "shell.h"
